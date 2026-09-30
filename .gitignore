@@ -11,3 +11,16 @@ __pycache__/
 dist/
 build/
 data/
+node_modules/
+venv/
+.venv/
+data/
+dist/
+build/
+.vite/
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+__pycache__/
